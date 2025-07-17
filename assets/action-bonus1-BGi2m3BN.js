@@ -1,4 +1,4 @@
-import{r as h}from"./index-CUQMCrQX.js";function v(n){return new Promise((t,a)=>{if(document.querySelector(`script[src="${n}"]`)){t();return}const r=document.createElement("script");r.src=n,r.onload=()=>t(),r.onerror=()=>a(new Error(`Script load error for ${n}`)),document.head.appendChild(r)})}function x(){return`
+import{r as h}from"./index-Br1290MD.js";function v(n){return new Promise((t,a)=>{if(document.querySelector(`script[src="${n}"]`)){t();return}const r=document.createElement("script");r.src=n,r.onload=()=>t(),r.onerror=()=>a(new Error(`Script load error for ${n}`)),document.head.appendChild(r)})}function x(){return`
         <style>
             #pdf-merger-container {
                 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;

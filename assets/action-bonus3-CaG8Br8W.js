@@ -1,4 +1,4 @@
-import{r as j}from"./index-CUQMCrQX.js";function X(){return`
+import{r as j}from"./index-Br1290MD.js";function X(){return`
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap');
         #game-wrapper {
