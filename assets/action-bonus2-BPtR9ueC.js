@@ -1,4 +1,4 @@
-import{r as E}from"./index-Br1290MD.js";const z=["./lib/jszip.min.js","./lib/dicomParser.min.js","./lib/plotly-cartesian.min.js"];function I(n){return new Promise((o,p)=>{if(document.querySelector(`script[src="${n}"]`))return o();const l=document.createElement("script");l.src=n,l.onload=()=>o(),l.onerror=()=>p(new Error(`Failed to load script: ${n}`)),document.head.appendChild(l)})}async function P(){for(const n of z)await I(n)}function D(){return`
+import{r as E}from"./index-CVwNq2Ey.js";const z=["./lib/jszip.min.js","./lib/dicomParser.min.js","./lib/plotly-cartesian.min.js"];function I(n){return new Promise((o,p)=>{if(document.querySelector(`script[src="${n}"]`))return o();const l=document.createElement("script");l.src=n,l.onload=()=>o(),l.onerror=()=>p(new Error(`Failed to load script: ${n}`)),document.head.appendChild(l)})}async function P(){for(const n of z)await I(n)}function D(){return`
         <style>
             #dicom-viewer-container {
                 width: 100%;
